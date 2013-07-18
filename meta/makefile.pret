@@ -1,0 +1,8 @@
+# This file provides instructions for packaging.
+
+`RDF-LinkedData-MetaCPAN`
+	perl_version_from m`RDF::LinkedData::MetaCPAN`;
+	version_from      m`RDF::LinkedData::MetaCPAN`;
+	readme_from       m`RDF::LinkedData::MetaCPAN` ;
+	.
+

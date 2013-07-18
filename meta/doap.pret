@@ -1,0 +1,19 @@
+# This file contains general metadata about the project.
+
+@prefix : <http://usefulinc.com/ns/doap#>.
+
+`RDF-LinkedData-MetaCPAN`
+	:programming-language "Perl" ;
+	:shortdesc            "expose data from the MetaCPAN API using linked data/semantic web technologies";
+	:homepage             <https://metacpan.org/release/RDF-LinkedData-MetaCPAN>;
+	:download-page        <https://metacpan.org/release/RDF-LinkedData-MetaCPAN>;
+	:bug-database         <http://rt.cpan.org/Dist/Display.html?Queue=RDF-LinkedData-MetaCPAN>;
+#	:repository           [ a :HgRepository; :browse <https://bitbucket.org/tobyink/p5-rdf-linkeddata-metacpan> ];
+	:created              2013-07-18;
+	:license              <http://dev.perl.org/licenses/>;
+	:maintainer           cpan:TOBYINK;
+	:developer            cpan:TOBYINK.
+
+<http://dev.perl.org/licenses/>
+	dc:title  "the same terms as the perl 5 programming language system itself".
+
